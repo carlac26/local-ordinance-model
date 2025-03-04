@@ -6,7 +6,7 @@ pacman::p_load(MASS, readxl, tseries, car, tile, simcf, # data refinement
                sf, sp, tmap, raster, spdep, rgdal, rgeos,
                ggplot2, ggpubr, shiny, shinyjs, tmaptools, graph4lg, # spatial 
                tidyverse)
-setwd("~/R/MIT Replication")
+setwd("~/R/local-ordinance-model/MIT Replication")
 
 ########################### Data Refinement ##################################
 #import county list
@@ -21,6 +21,7 @@ ordinances <- sabin[,-c(3,6)]
 colnames(ordinances) <- c("state_name","county_name","solar", "wind", "year", "setback", "height", "noise", "wildlife", "agriculture", "visual_impact", "litigation")
 
 #need to fix years
+ordinances <- ordinances %>% drop_na(year)
 ordinances$year[ordinances$year=='"2019"'] <- 2019
 ordinances$year <- as.double(ordinances$year)
 
@@ -45,7 +46,7 @@ solarord_unique <- solarord %>% select(state_name, county_name, year) %>% unique
 solarord_unique$solarord <- 1 # 188 counties with solar ordinances 
 
 fulldata <- left_join(fulldata, windord_unique, by=c("state_name","county_name","year"))
-sum(windord_unique$windord); sum(fulldata$windord, na.rm=T) #41 not transferred 
+sum(windord_unique$windord); sum(fulldata$windord, na.rm=T) #8 not transferred 
 
 fulldata <- fulldata %>% arrange(state_name, county_name, year)
 
