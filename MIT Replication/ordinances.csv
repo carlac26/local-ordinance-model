@@ -1,0 +1,410 @@
+state_name,county_name,solar,wind,year,setback,height,noise,wildlife,agriculture,visual_impact,litigation
+Alabama,Baldwin,0,1,NA,0,0,0,0,0,1,0
+Alabama,Cherokee,0,1,2014,1,0,1,0,0,0,0
+Alabama,DeKalb,0,1,NA,1,0,1,0,0,0,0
+Alabama,Etowah,0,1,2014,1,0,1,0,0,0,0
+Arizona,Mohave,0,0,2023,0,0,0,0,0,0,0
+Arizona,Pinal,1,0,2022,0,0,0,0,0,0,0
+California,Del Norte,0,1,NA,0,0,0,1,0,1,0
+California,Los Angeles,1,1,NA,0,0,0,0,0,0,0
+California,San Bernardino,1,1,2019,0,0,0,0,0,0,0
+California,Santa Clara,1,0,2010,0,0,0,0,1,0,0
+Colorado,Delta,1,0,2022,0,0,0,0,0,0,0
+Colorado,Montrose,0,0,2022,0,0,0,0,0,0,0
+Colorado,Rio Blanco,1,1,2023,0,0,0,0,0,0,0
+Colorado,Washington,1,1,2020,0,0,0,0,0,0,0
+Colorado,San Miguel,1,0,2023,0,0,0,0,0,1,0
+Delaware,Kent,1,1,2022,0,0,0,0,1,0,0
+Delaware,Sussex,1,0,NA,0,0,0,0,0,0,0
+Georgia,Baldwin,1,0,2020,1,0,0,0,0,0,0
+Georgia,Franklin,1,0,2022,0,0,0,0,0,0,0
+Georgia,Grady,1,0,2017,0,0,0,0,0,0,0
+Georgia,Greene,1,0,2020,1,0,0,0,0,1,0
+Georgia,Jeff Davis,1,0,2023,0,0,0,0,0,0,0
+Georgia,Lee,1,0,2019,0,0,0,0,0,0,0
+Georgia,Oglethorpe,1,0,2023,0,0,0,0,0,0,0
+Georgia,Thomas,1,0,2016,0,0,0,0,0,0,0
+Hawaii,Honolulu,0,1,2020,1,0,0,0,0,0,0
+Idaho,Bingham,0,1,2012,1,1,0,0,0,0,0
+Idaho,Bonneville,0,1,2010,0,0,0,0,0,0,0
+Idaho,Twin Falls,1,1,2023,0,0,0,0,0,0,0
+Illinois,Boone,0,1,2015,1,1,1,0,0,0,0
+Illinois,Christian,0,1,2020,1,1,1,0,0,0,0
+Illinois,DeKalb,0,1,2018,1,0,1,0,0,1,0
+Illinois,Ford,0,1,2017,1,1,1,0,0,0,0
+Illinois,Lee,1,1,2021,1,0,0,0,0,1,0
+Illinois,Monroe,1,1,2021,1,1,1,0,0,0,0
+Illinois,Piatt,0,1,2020,1,0,0,0,0,0,0
+Illinois,Tazewell,0,1,2022,1,0,0,0,0,0,0
+Indiana,Allen,0,1,2019,0,1,0,0,0,0,0
+Indiana,Boone,0,1,2009,0,0,0,0,0,0,0
+Indiana,Clinton,0,1,2019,0,0,0,0,0,0,0
+Indiana,Delaware,1,0,2022,1,0,0,0,0,0,0
+Indiana,Fulton,0,1,2018,0,0,0,0,0,0,0
+Indiana,Hamilton,1,1,2022,1,1,0,0,1,0,0
+Indiana,Henry,0,1,2019,1,0,0,0,0,0,0
+Indiana,Howard,0,1,2015,1,0,1,0,0,0,0
+Indiana,Jasper,0,1,2019,1,0,0,0,0,0,0
+Indiana,Kosciusko,1,0,2019,1,0,1,0,0,1,0
+Indiana,Kosciusko,0,1,NA,1,0,1,0,0,1,0
+Indiana,Lake,1,0,2016,0,0,0,0,0,0,0
+Indiana,Madison,1,0,2023,1,0,0,0,0,0,0
+Indiana,Marshall,0,1,2023,0,0,0,0,0,0,0
+Indiana,Miami,0,1,2018,1,0,0,0,0,0,0
+Indiana,Montgomery,0,1,2019,1,0,1,0,0,1,0
+Indiana,Noble,0,1,2013,1,0,0,0,0,0,0
+Indiana,Posey,1,1,2021,1,0,0,0,0,0,0
+Indiana,Pulaski,0,1,2018,0,0,0,0,0,0,0
+Indiana,Rush,0,1,2022,1,1,1,0,0,1,0
+Indiana,Spencer,1,0,2023,0,0,0,0,0,0,0
+Indiana,Tippecanoe,0,1,2019,0,1,0,0,0,0,0
+Indiana,Tipton,0,1,2016,1,0,0,0,0,0,0
+Indiana,Vermillion,0,1,2021,1,0,1,0,1,0,0
+Indiana,Wabash,0,1,2017,1,0,1,0,0,1,0
+Indiana,Wayne,0,1,2016,0,1,0,0,0,0,0
+Indiana,Wells,0,1,2022,0,0,0,0,0,0,0
+Indiana,Whitley,0,1,2016,1,0,0,0,0,0,0
+Iowa,Adair,0,1,2019,0,0,0,0,0,0,0
+Iowa,Butler,0,1,2022,1,0,1,0,0,0,0
+Iowa,Cerro Gordo,1,1,2023,0,0,0,0,0,0,0
+Iowa,Dallas,0,1,NA,1,0,1,0,0,0,0
+Iowa,Greene,1,0,2022,1,0,0,0,0,0,0
+Iowa,Grundy,0,1,2023,1,0,0,0,0,0,0
+Iowa,Hardin,0,1,2019,0,0,0,0,0,0,0
+Iowa,Johnson,1,0,2021,0,0,0,0,0,0,0
+Iowa,Linn,1,0,2023,0,0,0,0,0,0,0
+Iowa,Madison,1,1,2020,1,0,1,0,0,0,0
+Iowa,Montgomery,0,1,2023,0,0,0,0,0,0,0
+Iowa,Page,0,1,2022,0,0,0,0,0,0,0
+Iowa,Palo Alto,0,1,2022,1,0,0,0,0,0,0
+Iowa,Pottawattamie,0,1,2009,0,0,0,0,0,0,0
+Iowa,Sioux,1,1,2023,0,0,0,0,0,0,0
+Iowa,Union,0,1,2023,1,0,0,0,0,0,0
+Iowa,Worth,0,1,2021,0,0,0,0,0,0,0
+Iowa,Woodbury,1,1,2022,1,0,0,0,1,1,0
+Kansas,Barton,1,0,2023,0,0,0,1,0,0,0
+Kansas,Brown,0,1,2022,0,0,0,0,0,0,0
+Kansas,Cherokee,0,1,2022,0,440,39,0,0,5250,0
+Kansas,Cherokee,0,1,2021,1,1,1,0,0,0,0
+Kansas,Douglas,0,1,2013,1,0,0,0,0,0,0
+Kansas,Franklin,0,1,2023,0,0,0,0,0,0,0
+Kansas,Harvey,1,1,2023,0,0,0,0,0,0,0
+Kansas,Johnson,1,0,2022,0,0,0,0,0,0,0
+Kansas,Kearny,0,1,2009,1,1,0,0,0,0,0
+Kansas,Labette,0,1,2022,0,0,0,0,0,0,0
+Kansas,Leavenworth,0,1,2022,1,1,0,0,0,0,0
+Kansas,Linn,0,1,2020,0,0,0,0,0,0,0
+Kansas,McPherson,1,1,2018,0,0,0,0,0,0,0
+Kansas,Nemaha,0,1,2019,0,0,0,0,0,0,0
+Kansas,Osage,1,1,2022,0,0,0,0,0,0,0
+Kansas,Pratt,0,1,2012,1,0,0,0,0,0,0
+Kansas,Reno,0,1,2021,0,0,0,0,0,0,0
+Kansas,Sedgwick,1,1,2023,0,0,0,0,0,0,0
+Kentucky,Boyle,1,0,2023,0,0,0,0,1,0,0
+Kentucky,Christian,1,0,2023,1,0,0,0,0,0,0
+Kentucky,Kenton,1,0,2023,0,0,0,0,0,1,0
+Kentucky,Mason,1,0,2023,1,0,0,0,0,0,0
+Kentucky,Meade,1,0,2023,0,0,0,0,1,0,0
+Louisiana,Jefferson Davis,0,1,2020,1,0,0,0,0,0,0
+Louisiana,St. James,1,0,2022,0,0,0,0,0,1,0
+Louisiana,Washington,1,0,2021,0,0,0,0,0,0,0
+Maine,Androscoggin,1,0,2021,0,0,0,0,0,0,0
+Maine,Aroostook,0,1,2015,1,0,0,0,0,0,0
+Maine,Franklin,1,0,2023,0,0,0,0,0,0,0
+Maine,Hancock,1,0,2021,0,0,0,0,0,1,0
+Maine,Kennebec,0,0,2023,0,0,0,0,1,0,0
+Maine,Kennebec,1,0,2021,0,0,0,0,0,1,0
+Maine,Kennebec,1,0,2023,1,0,0,0,0,0,0
+Maine,Kennebec,0,1,2017,0,1,0,0,0,0,0
+Maine,Kennebec,1,1,2020,0,1,0,0,0,0,0
+Maine,Oxford,1,0,2023,0,0,0,0,0,0,0
+Maine,Oxford,0,1,2017,1,0,0,0,1,0,0
+Maine,Oxford,0,1,NA,1,0,1,0,0,0,0
+Maine,Penobscot,1,0,2023,0,0,0,0,0,0,0
+Maine,Penobscot,1,0,2022,0,0,0,0,0,0,0
+Maine,Penobscot,1,0,2021,0,0,0,0,0,0,0
+Maine,Penobscot,1,1,2021,1,0,0,0,0,0,0
+Maine,Somerset,1,0,2022,0,0,0,0,0,0,0
+Maine,Somerset,1,1,2023,0,0,0,0,0,0,0
+Maine,Waldo,0,0,2023,0,0,0,0,0,0,0
+Maine,Waldo,0,0,2023,0,0,0,0,0,0,0
+Maine,Waldo,0,1,2015,1,1,1,0,0,0,0
+Maine,Waldo,0,1,NA,1,1,1,0,0,0,0
+Maine,Oxford,1,0,2022,0,0,0,0,0,1,0
+Maryland,Allegany,0,1,NA,1,0,0,0,0,0,0
+Maryland,Anne Arundel,0,0,NA,1,0,0,0,0,0,0
+Maryland,Carroll,1,0,2023,0,0,0,0,1,0,0
+Maryland,Somerset,0,0,"""2019""",0,0,0,0,0,0,0
+Maryland,Worcester,0,1,2015,0,0,0,0,0,0,0
+Massachusetts,Franklin,1,0,2021,0,0,0,0,0,0,1
+Massachusetts,Hampshire,1,0,2023,1,0,0,1,0,0,0
+Massachusetts,Middlesex,1,0,2022,0,0,0,0,0,0,0
+Massachusetts,Worcester,1,0,2019,0,0,0,0,0,0,0
+Michigan,Baraga,0,1,2021,1,1,1,0,0,0,0
+Michigan,Bay,0,1,2019,1,1,1,0,0,0,0
+Michigan,Bay,1,1,2018,1,1,1,0,0,0,0
+Michigan,Bay,1,1,2022,1,1,0,0,0,0,0
+Michigan,Branch,0,1,2020,1,1,0,0,0,0,0
+Michigan,Branch,0,1,2020,1,1,1,0,0,0,0
+Michigan,Branch,0,1,2019,1,1,0,0,0,0,0
+Michigan,Clinton,1,0,2020,1,0,0,0,0,0,0
+Michigan,Clinton,1,1,2023,0,0,0,0,0,0,0
+Michigan,Emmet,0,1,2021,0,1,1,0,0,0,0
+Michigan,Emmet,0,1,2015,0,1,1,0,0,0,0
+Michigan,Genesee,1,0,2022,0,0,0,0,0,0,0
+Michigan,Genesee,1,1,NA,0,0,0,0,0,0,0
+Michigan,Genesee,1,1,2022,1,0,0,0,0,0,0
+Michigan,Houghton,0,1,2021,0,0,0,0,0,0,0
+Michigan,Houghton,1,1,2021,0,0,0,0,0,0,0
+Michigan,Huron,0,1,2015,1,1,0,0,0,0,0
+Michigan,Huron,0,1,2016,0,0,1,0,0,0,0
+Michigan,Ingham,0,1,2022,0,1,0,0,0,0,0
+Michigan,Ingham,0,1,2022,0,1,0,0,0,0,0
+Michigan,Lapeer,0,1,2019,1,0,1,0,0,0,0
+Michigan,Lapeer,0,1,2018,1,0,1,0,0,0,0
+Michigan,Leelanau,0,1,2016,0,0,0,0,0,0,0
+Michigan,Lenawee,1,0,2023,1,0,0,0,0,0,0
+Michigan,Lenawee,0,1,2011,0,0,0,0,0,0,0
+Michigan,Lenawee,0,1,NA,1,0,1,0,0,0,0
+Michigan,Livingston,1,0,2021,0,0,0,0,0,0,0
+Michigan,Livingston,1,0,2023,0,0,0,0,0,0,0
+Michigan,Livingston,1,0,2023,0,0,0,0,0,0,0
+Michigan,Livingston,1,1,2023,0,0,0,0,0,0,0
+Michigan,Livingstone,1,0,2023,0,0,0,0,0,0,0
+Michigan,Marquette,1,1,NA,1,1,1,0,0,0,0
+Michigan,Mason,0,1,NA,1,0,1,0,0,0,0
+Michigan,Monroe,1,0,2023,0,0,0,0,0,0,0
+Michigan,Monroe,1,0,2021,0,0,0,0,0,0,0
+Michigan,Monroe,1,0,2020,0,0,0,0,0,0,0
+Michigan,Monroe,1,0,2022,0,0,0,0,0,0,0
+Michigan,Monroe,1,0,2018,0,0,0,0,0,0,0
+Michigan,Monroe,1,0,2022,1,0,0,0,1,0,0
+Michigan,Monroe,1,0,2023,1,0,0,0,1,0,0
+Michigan,Montcalm,0,1,2021,1,0,0,0,0,0,0
+Michigan,Montcalm,0,1,2022,1,1,0,0,0,0,0
+Michigan,Montcalm,0,1,2021,1,0,1,0,1,0,0
+Michigan,Montcalm,0,1,2021,1,1,1,0,0,0,0
+Michigan,Montcalm,1,1,2023,1,1,1,0,0,0,0
+Michigan,Montcalm,1,1,2023,1,1,1,0,0,0,0
+Michigan,Muskegon,1,0,2023,0,0,0,0,0,0,1
+Michigan,Muskegon,0,1,2019,1,0,1,0,1,0,0
+Michigan,Oceana,1,1,2019,1,1,1,0,0,0,0
+Michigan,Sanilac,0,1,2016,0,0,0,0,0,0,0
+Michigan,Sanilac,0,1,2016,0,0,0,0,0,0,0
+Michigan,Sanilac,0,1,2019,1,1,1,0,0,0,0
+Michigan,Shiawassee,1,0,2021,0,0,0,0,0,0,0
+Michigan,Shiawassee,0,1,2018,1,1,1,0,0,0,0
+Michigan,St. Clair,1,1,2023,0,0,0,0,0,0,0
+Michigan,Tuscola,0,1,2016,0,0,0,0,0,0,0
+Michigan,Tuscola,0,1,2019,1,0,0,0,0,0,0
+Michigan,Tuscola,0,1,NA,1,0,0,0,0,0,0
+Michigan,Tuscola,0,1,2021,1,0,0,0,0,0,0
+Michigan,Tuscola,0,1,2020,1,0,1,0,1,0,0
+Michigan,Tuscola,0,1,2021,1,1,1,0,0,0,0
+Michigan,Washtenaw,1,0,2022,0,0,0,0,0,0,0
+Minnesota,Hennepin,1,0,2020,0,0,0,0,1,0,0
+Minnesota,Washington,1,0,2022,1,0,0,0,0,1,0
+Minnesota,Wright,1,0,2021,0,0,0,0,1,0,0
+Missouri,Boone,0,1,2021,1,1,0,0,0,0,0
+Missouri,Buchanan,0,1,2020,0,0,1,0,0,0,0
+Missouri,Callaway,1,0,2022,1,0,0,0,0,0,0
+Missouri,Clinton,0,1,2016,0,0,0,0,1,0,0
+Missouri,DeKalb,0,1,2016,0,0,0,0,1,0,0
+Missouri,Monroe,0,1,2019,0,0,0,0,0,0,0
+Nebraska,Adams,1,1,2018,1,0,0,0,0,0,0
+Nebraska,Brown,0,1,2020,1,0,0,0,0,0,0
+Nebraska,Buffalo,0,1,2023,1,0,0,0,0,0,0
+Nebraska,Burt,0,1,NA,1,0,0,0,0,0,0
+Nebraska,Butler,0,1,2015,1,1,0,0,0,0,0
+Nebraska,Butler,0,1,2015,1,0,0,0,0,0,0
+Nebraska,Butler,0,1,2015,1,0,0,0,0,0,0
+Nebraska,Butler,0,1,2015,1,0,0,0,0,0,0
+Nebraska,Butler,0,1,2015,1,0,0,0,0,0,0
+Nebraska,Butler,0,1,2015,1,0,0,0,0,0,0
+Nebraska,Cedar,0,1,2022,1,0,0,0,0,0,0
+Nebraska,Dakota,0,1,2021,1,0,0,0,0,0,0
+Nebraska,Dawson,0,1,2022,1,0,1,0,0,0,0
+Nebraska,Gage,1,1,2023,1,0,0,0,0,0,0
+Nebraska,Hamilton,0,1,2019,1,0,0,0,0,0,0
+Nebraska,Holt,0,1,2022,1,0,0,0,0,0,0
+Nebraska,Jefferson,0,1,2023,1,0,0,0,0,0,0
+Nebraska,Kearney,1,0,2016,1,0,0,0,0,0,0
+Nebraska,Lancaster,0,1,2015,1,1,1,0,0,0,0
+Nebraska,Lincoln,1,1,2023,0,0,0,0,0,0,0
+Nebraska,Madison,0,1,2018,0,0,0,0,0,0,0
+Nebraska,Otoe,0,1,2020,1,0,0,0,0,0,0
+Nebraska,Otoe,0,1,2023,1,1,0,0,0,0,0
+Nebraska,Pierce,0,1,2017,0,0,0,0,0,0,0
+Nebraska,Red Willow,1,0,2023,0,0,0,0,1,0,0
+Nebraska,Saline,0,1,2020,1,0,1,0,0,0,0
+Nebraska,Sarpy,1,0,2020,0,0,0,0,0,0,0
+Nebraska,Stanton,0,1,2017,1,0,0,0,1,0,0
+Nebraska,Thomas,0,1,2019,1,0,1,0,0,0,0
+Nebraska,Wheeler,0,1,2020,1,1,0,0,0,0,0
+New Hampshire,Grafton,0,1,2018,1,1,1,0,0,0,0
+New Jersey,Atlantic,0,1,2023,0,0,0,1,0,0,0
+New Jersey,Monmouth,0,1,2023,0,0,0,1,0,0,0
+New York,Albany,1,1,2019,0,0,0,0,0,0,0
+New York,Broome,0,1,2019,0,0,0,0,0,0,0
+New York,Cattaraugus,0,1,2020,1,1,1,0,0,0,0
+New York,Cattaraugus,0,1,2014,0,0,0,0,0,0,0
+New York,Cattaraugus,1,0,2023,0,0,0,0,1,0,0
+New York,Cattaraugus,1,1,2022,0,0,0,0,1,1,0
+New York,Chautauqua,0,1,2019,1,1,1,0,0,0,0
+New York,Chautauqua,0,1,2019,1,0,0,0,0,0,0
+New York,Dutchess,0,1,2019,0,0,0,0,0,0,0
+New York,Dutchess,1,0,2023,0,0,0,0,0,1,1
+New York,Greene,1,0,2019,0,0,0,0,0,0,1
+New York,Hamilton,0,0,2023,0,0,0,0,0,0,0
+New York,Jefferson,0,1,2016,1,1,0,0,0,0,1
+New York,Jefferson,0,1,2019,0,0,0,0,0,0,0
+New York,Montgomery,0,0,2023,0,0,0,0,0,0,0
+New York,Montgomery,1,0,2022,1,0,0,0,1,0,0
+New York,Montgomery,1,0,2021,0,0,0,0,1,0,0
+New York,Montgomery,1,0,2022,1,0,0,0,1,0,0
+New York,Niagara,0,1,2018,1,1,0,0,0,0,0
+New York,Niagara,1,0,NA,1,0,0,0,0,0,0
+New York,Niagara,1,0,2021,0,0,0,0,0,0,0
+New York,Niagara,1,0,2020,0,0,0,0,0,0,0
+New York,Niagara,1,0,2021,0,0,0,0,0,0,0
+New York,Niagara,1,1,2023,1,0,0,0,1,0,0
+New York,Ontario,1,0,2014,0,0,0,0,0,0,0
+New York,Orange,1,0,2022,0,0,0,0,1,0,0
+New York,Orleans,0,1,2016,1,0,0,0,0,0,0
+New York,Oswego,0,1,2018,1,0,1,0,0,0,0
+New York,Saratoga,1,0,2021,0,0,0,0,1,0,0
+New York,Saratoga,1,0,2021,0,0,0,0,1,0,0
+New York,Schenectady,1,0,2020,0,0,0,0,0,0,0
+New York,Schenectady,1,0,2022,0,0,0,0,0,0,0
+New York,Schenectady,1,0,2022,0,0,0,0,0,0,0
+New York,Schoharie,1,1,2022,0,0,0,0,0,0,0
+New York,St. Lawrence,0,1,2018,1,1,1,0,0,0,0
+New York,Suffolk,1,0,2021,0,0,0,0,0,0,0
+New York,Tomkins,0,1,2016,1,1,0,0,0,0,0
+New York,Tompkins,1,0,2016,0,0,0,0,0,0,0
+New York,Tompkins,1,0,2017,0,0,0,0,0,0,0
+New York,Tompkins,1,1,2017,0,0,0,0,0,0,0
+North Carolina,Ashe,0,1,NA,0,1,0,0,0,0,0
+North Carolina,Brunswick,0,1,2021,0,0,0,0,0,0,0
+North Carolina,Carteret,0,1,2014,1,1,1,0,0,0,0
+North Carolina,Craven,0,1,2021,1,0,1,0,0,0,0
+North Carolina,Currituck,1,1,2017,0,0,0,0,0,0,0
+North Carolina,Hertford,1,0,2020,0,0,0,0,0,0,0
+North Carolina,Iredell,0,1,NA,0,1,1,0,0,0,0
+North Carolina,Northampton,1,0,2015,0,0,0,0,0,0,0
+North Carolina,Rowan,1,0,2019,0,0,0,0,0,0,0
+North Dakota,Grand Forks,0,1,2013,0,0,0,0,0,0,0
+North Dakota,Grand Forks,0,1,2023,1,0,0,0,0,0,0
+North Dakota,McLean,1,1,2020,0,0,0,0,0,0,0
+North Dakota,Mercer,0,1,2020,0,0,0,0,0,0,0
+North Dakota,Stark,0,1,2021,0,0,0,0,0,0,0
+Ohio,Allen,1,1,2022,0,0,0,0,0,0,0
+Ohio,Auglaize,1,1,2022,0,0,0,0,0,0,0
+Ohio,Brown,1,1,2022,0,0,0,0,0,0,0
+Ohio,Butler,1,1,2022,0,0,0,0,0,0,0
+Ohio,Clermont,1,1,2023,0,0,0,0,0,0,0
+Ohio,Columbiana,1,1,2023,0,0,0,0,0,0,0
+Ohio,Erie,1,1,2023,0,0,0,0,0,0,0
+Ohio,Fayette,1,1,2023,0,0,0,0,0,0,0
+Ohio,Greene,1,1,2023,0,0,0,0,1,0,0
+Ohio,Hancock,1,1,2022,0,0,0,0,0,0,0
+Ohio,Knox,0,1,2022,0,0,0,0,0,0,0
+Ohio,Logan,1,1,2022,0,0,0,0,0,0,0
+Ohio,Madison,1,1,2023,0,0,0,0,0,0,0
+Ohio,Marion,1,1,2023,0,0,0,0,0,0,0
+Ohio,Medina,1,1,2022,0,0,0,0,0,0,0
+Ohio,Ottawa,1,1,2022,0,0,0,0,0,0,0
+Ohio,Portage,1,1,2023,0,0,0,0,0,0,0
+Ohio,Putnam,1,1,2023,0,0,0,0,0,0,0
+Ohio,Seneca,1,1,2021,0,0,0,0,0,0,0
+Ohio,Union,1,0,2022,0,0,0,0,0,0,0
+Ohio,Wayne,1,0,2023,0,0,0,0,0,0,0
+Ohio,Crawford,1,1,2022,0,0,0,0,0,0,0
+Ohio,Mahoning,1,1,2023,0,0,0,0,1,1,0
+Oklahoma,Canadian,0,1,1995,0,1,0,0,0,0,0
+Oklahoma,Rogers,0,1,2019,0,1,0,0,0,0,0
+Oklahoma,Tulsa,0,1,2019,0,1,0,0,0,0,0
+Oregon,Umatilla,0,1,NA,1,0,0,0,0,0,0
+Pennsylvania,Lawrence,1,0,2021,0,0,0,0,1,0,0
+Pennsylvania,Northumberland,1,0,2022,0,0,0,0,1,0,1
+Rhode Island,Kent,1,0,2022,0,1,0,0,0,0,0
+Rhode Island,Providence,1,0,2020,0,0,0,0,0,0,0
+Rhode Island,Providence,0,1,2022,0,0,1,0,0,1,0
+Rhode Island,Washington,0,1,2011,0,0,0,0,0,0,0
+South Carolina,Calhoun,1,0,2023,1,0,0,0,0,0,0
+South Dakota,Hughes,0,1,2017,1,0,0,0,1,0,0
+South Dakota,Sanborn,0,1,2016,1,0,0,0,0,0,0
+Tennessee,Franklin,1,1,2022,0,0,0,0,0,0,0
+Tennessee,Greene,1,1,2022,0,0,0,0,0,0,0
+Texas,Johnson,0,1,NA,1,1,1,0,0,0,0
+Texas,Bell,0,1,NA,0,0,0,0,0,0,0
+Texas,Cameron,1,1,NA,0,1,0,0,0,0,0
+Texas,Collin,0,1,NA,0,1,0,0,0,0,0
+Texas,Collin,0,1,NA,0,0,0,0,0,0,0
+Texas,Dallas,0,1,NA,0,1,0,0,0,0,0
+Texas,Dallas,0,1,NA,0,0,0,0,0,0,0
+Texas,Dallas,0,1,NA,0,0,1,0,0,0,0
+Texas,Dallas,0,1,NA,0,1,0,0,0,0,0
+Texas,Ellis,0,1,NA,0,1,0,0,0,0,0
+Texas,Ellis,0,1,NA,0,0,0,0,0,0,0
+Texas,Ellis,0,1,NA,0,0,1,0,0,0,0
+Texas,Grayson,0,1,NA,1,0,0,0,0,0,0
+Texas,Harris,0,1,NA,0,1,0,0,0,0,0
+Texas,Kleburg,0,1,NA,0,1,0,0,0,0,0
+Texas,Parker,0,1,NA,0,1,0,0,0,0,0
+Texas,Rockwall,0,1,NA,0,1,0,0,0,0,0
+Texas,Tarrant,0,1,NA,1,1,1,0,0,0,0
+Texas,Tarrant,0,1,NA,0,0,0,0,0,0,0
+Texas,Tarrant,1,1,NA,0,1,1,0,0,1,0
+Texas,Waller,0,1,NA,0,1,0,0,0,0,0
+Utah,Kane,1,0,2013,1,0,0,0,0,0,0
+Vermont,Caledonia,0,1,2015,0,0,0,0,0,0,0
+Vermont,Essex,0,1,2015,0,0,0,0,0,0,0
+Vermont,Orleans,0,1,2015,0,0,0,0,0,0,0
+Virginia,Accomack,1,0,2017,0,0,0,0,0,1,0
+Virginia,Augusta,1,0,2023,0,0,0,0,0,0,0
+Virginia,Brunswick,1,0,2023,0,0,0,0,0,0,0
+Virginia,Buckingham,1,0,2023,0,0,0,0,0,0,0
+Virginia,Charlotte,1,0,2023,0,0,0,0,0,0,0
+Virginia,Culpeper,1,0,2023,0,0,0,0,0,0,0
+Virginia,Fauquier,1,0,2020,0,0,0,0,0,0,0
+Virginia,Franklin,1,0,2023,0,0,0,0,0,0,0
+Virginia,Greensville,1,0,2022,0,0,0,0,0,0,0
+Virginia,Halifax,1,0,2023,0,0,0,0,0,0,0
+Virginia,Henry,1,0,2020,0,0,0,0,0,0,0
+Virginia,Isle of Wight,1,0,2023,0,0,0,0,0,0,0
+Virginia,James City,1,0,2023,0,0,0,0,0,0,0
+Virginia,Louisa,1,0,2022,0,0,0,0,0,0,0
+Virginia,Lunenburg,1,0,2023,0,0,0,0,0,0,0
+Virginia,Madison,1,0,2019,0,0,0,0,0,0,0
+Virginia,Mecklenburg,1,0,2023,0,0,0,0,0,0,0
+Virginia,Page,1,0,2022,0,0,0,0,0,0,0
+Virginia,Patrick,1,1,2007,0,1,0,0,0,0,0
+Virginia,Pittsylvania,1,0,2023,0,0,0,0,0,0,0
+Virginia,Prince George,1,0,2020,0,0,0,0,0,0,0
+Virginia,Rockingham,1,0,2023,0,0,0,0,0,0,0
+Virginia,Shenandoah,1,0,2023,0,0,0,0,0,0,0
+Virginia,Southampton,1,0,2022,0,0,0,0,0,0,0
+Virginia,Warren,1,1,2009,0,1,0,0,0,0,0
+Washington,Grant,1,1,2021,0,0,0,0,0,0,0
+Washington,Kittitas,1,0,2017,0,0,0,0,0,0,0
+Washington,Klickitat,1,1,2023,1,0,0,0,0,0,0
+Washington,Yakima,1,0,2022,0,0,0,0,0,0,0
+Wisconsin,Clark,0,1,2023,1,1,1,0,0,0,0
+Wisconsin,Columbia,1,0,2023,0,0,1,0,0,0,0
+Wisconsin,Dane,1,0,2022,0,0,0,0,1,0,0
+Wisconsin,Dane,1,0,2022,0,0,0,0,1,0,0
+Wisconsin,Dane,1,0,2021,0,0,0,0,1,0,0
+Wisconsin,Dane,1,0,2021,0,0,0,0,1,0,0
+Wisconsin,Eau Claire,0,1,2021,0,0,0,0,0,0,0
+Wisconsin,Manitowoc,0,1,2013,0,0,0,0,0,0,0
+Wisconsin,Marathon,0,1,2023,1,1,1,0,0,0,0
+Wisconsin,Marathon,0,1,2023,1,1,1,0,0,0,0
+Wisconsin,Marathon,0,1,2023,1,1,1,0,0,0,0
+Wisconsin,Marathon,0,1,2023,1,1,1,0,0,0,0
+Wisconsin,Marathon,0,1,2023,1,1,1,0,0,0,0
+Wisconsin,Marathon,0,1,2023,1,1,1,0,0,0,0
+Wisconsin,Marathon,0,1,2023,1,1,1,0,0,0,0
+Wisconsin,Marathon,0,1,NA,1,1,1,0,0,0,0
+Wisconsin,Rock,0,1,NA,1,0,0,0,0,0,0
+Wyoming,Crook,0,1,2012,1,1,1,0,0,0,0
