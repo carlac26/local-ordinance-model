@@ -1,11 +1,13 @@
 ##Author: Carla Canovi 
 ## 09.26.2024
 #load packages
+install_github('OSGeo/gdal')
+install_github("r-lib/devtools")
 pacman::p_load(MASS, readxl, tseries, car, tile, simcf, # data refinement
                survival, spaMM, plm, coda, fields, # data analysis
-               sf, sp, tmap, raster, spdep, rgdal, rgeos,
+               sf, sp, tmap, raster, spdep, geos,
                ggplot2, ggpubr, shiny, shinyjs, tmaptools, graph4lg, # spatial 
-               tidyverse)
+               tidyverse )
 setwd("~/R/local-ordinance-model/MIT Replication")
 
 ########################### Data Refinement ##################################
@@ -46,8 +48,12 @@ solarord_unique <- solarord %>% select(state_name, county_name, year) %>% unique
 solarord_unique$solarord <- 1 # 188 counties with solar ordinances 
 
 fulldata <- left_join(fulldata, windord_unique, by=c("state_name","county_name","year"))
-sum(windord_unique$windord); sum(fulldata$windord, na.rm=T) #8 not transferred 
+sum(windord_unique$windord); sum(fulldata$windord, na.rm=T) #39 not transferred 
 
+fulldata <- left_join(fulldata, solarord_unique, by=c("state_name","county_name","year"))
+sum(solarord_unique$solarord); sum(fulldata$solarord, na.rm=T) #39 not transferred 
+
+write_csv(fulldata,"test.csv")
 fulldata <- fulldata %>% arrange(state_name, county_name, year)
 
 #filter if have year of restriction - anything that has a 1 in contested project filter out - should leave us with straight forward list and colomns f through i  colomns o-3 are also interesting to us - also colomn w is there litigation happening 
@@ -252,3 +258,32 @@ colnames(fulldata)[13] <- "solarcapa"
 
 fulldata$windcapa[is.na(fulldata$windcapa)] <- 0
 fulldata$solarcapa[is.na(fulldata$solarcapa)] <- 0
+
+
+##### geospatial component: adjacency matrix########
+geo <- st_read("tl_2019_us_county.shp")
+E <- nb2mat(poly2nb(geo), style = "B", zero.policy = T)
+
+# save centroids for potential use
+geo$id <- 1:nrow(geo)
+geo_sp <- vect(geo)
+centr <- centroids(geo_sp, TRUE)
+coord <- as.data.frame(centr@coords)
+coord$county_fips <- geo$GEOID10
+coord$id <- geo$id
+for (i in 1:nrow(coord)) {
+  coord$county_fips[i][unlist(str_split(coord$county_fips[i], ""))[1]=="0"] <- paste(unlist(str_split(coord$county_fips[i], ""))[2:5], collapse="")
+}
+
+rawdata <- fulldata
+fulldata <- left_join(fulldata, coord, by="county_fips")
+
+################## index of relative ruralness#####
+irr <- read_excel("IRR_2000_2010.xlsx", sheet=2)
+
+irr <- irr[,-c(4,5)]
+colnames(irr) <- c("county_fips","county","irr")
+irr$county_fips <- as.character(irr$county_fips)
+fulldata <- left_join(fulldata, irr, by="county_fips")
+
+
